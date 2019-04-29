@@ -1,0 +1,25 @@
+h3{
+    font-size: 1.5rem;
+    color:rgb(255, 196, 0);
+    text-align: center;
+}
+.character-card{
+    width: 250px;
+    height: 470px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin: 5%;
+    border: solid #000;
+    border-width: 2px 2px;
+   box-shadow: 5px 10px 5px #000000;
+   background-image: linear-gradient(rgb(126, 13, 13), rgb(62, 60, 59));
+}
+p{
+    font-size: 1.3rem;
+    color: black;
+    line-height: 5px;
+    color: white;
+    padding-left: 5px;
+}
+
